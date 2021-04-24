@@ -1,3 +1,4 @@
+//Program To Convert a Decimal number to Binary
 #include<stdio.h>
 
 int binary(int n)
