@@ -1,3 +1,4 @@
+//Program to access digits of a given integer and print them in the same order
 #include<stdio.h>
 
 int digit(int n)
