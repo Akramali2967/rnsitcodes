@@ -1,3 +1,4 @@
+//Program to print even and odd  digits of a given integer 
 #include<stdio.h>
 
 int digit(int n)
