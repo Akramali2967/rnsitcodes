@@ -1,3 +1,4 @@
+//Program to print prime factors of a giveh integer
 #include<stdio.h>
 #include<stdlib.h>
 
