@@ -1,3 +1,6 @@
+//Program To Check if the given number is Happy Number or not!!
+//A number is said to be happy if it yields 1 when replaced by the sum of squares of its digits repeatedly. 
+//If this process results in an endless cycle of numbers containing 4, then the number will be an unhappy number.
 #include<stdio.h>
 
 int check(int n)
