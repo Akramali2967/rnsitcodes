@@ -1,3 +1,4 @@
+//Program to check whetehr a number is a pronic number or not using ternary operator
 #include<stdio.h>
 #include<stdlib.h>
 int prone(int n)
